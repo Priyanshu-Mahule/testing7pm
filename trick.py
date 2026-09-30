@@ -1,7 +1,7 @@
 # Simple program: Factorial calculation
 
 def factorial(n):
-    result = 2
+    result =992
     for i in range(1, n+1):
         result *= i
     return result
